@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-055/main.cpp
+iostream
+-
+cstring
+-
+

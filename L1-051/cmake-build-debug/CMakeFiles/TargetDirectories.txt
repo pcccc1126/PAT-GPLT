@@ -1,0 +1,3 @@
+/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-051/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-051/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-051/cmake-build-debug/CMakeFiles/L1_051.dir

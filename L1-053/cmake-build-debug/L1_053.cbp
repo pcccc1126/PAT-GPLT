@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="L1_053"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L1_053">
+				<Option output="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/L1_053" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 L1_053"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L1_053/fast">
+				<Option output="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/L1_053" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 L1_053/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangpeicheng/Library/Mobile\ Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/main.cpp">
+			<Option target="L1_053"/>
+		</Unit>
+		<Unit filename="/Users/zhangpeicheng/Library/Mobile Documents/com~apple~CloudDocs/北京邮电大学/学习作业/C/CLionProjects/PAT天梯赛/L1-053/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
